@@ -1,0 +1,29 @@
+.both{
+  width: 150px;
+  height: 150px;
+  outline: 2px solid #000000;
+  resize: both;
+}
+
+.none{
+  width: 150px;
+  height: 150px;
+  outline: 2px solid #000000;
+  resize: none;
+}
+
+.gor{
+  resize: horizontal;
+	width: 200px;
+	height: 150px;
+  outline: 2px solid #000000;
+
+}
+
+.vert{
+  width: 150px;
+  height: 150px;
+  outline: 2px solid #000000;
+  resize: vertical;
+}
+#clear {clear:both; }

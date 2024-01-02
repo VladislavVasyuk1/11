@@ -1,0 +1,34 @@
+body{
+  width: 40%;
+  height: 80%;
+  border: 2px solid #2510df;
+}
+.header {
+  height: 5%;
+  width: 100%;
+  border-bottom: 3px solid rgb(4, 87, 66);
+  background-color: #7269c9;
+  display: flex;
+  justify-content: center;
+  margin: 10px 0;
+  }
+  .pagenav {
+    justify-content: center;
+    border: 1px solid #7269c9; 
+    padding: 0.5cm;
+    
+  }
+  .text1{
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+    color: #ffffff;
+    line-height: 1.5;
+  }
+  .telu{
+    height: 100%;
+    width: 85%; 
+    margin-left: 1.5cm;
+
+  }
+
+    
